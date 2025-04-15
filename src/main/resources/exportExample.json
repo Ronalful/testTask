@@ -1,0 +1,36 @@
+[ {
+  "id" : "58cc0c91-884c-4b8f-aabd-dcea91a4785a",
+  "customerName" : "Дмитрий",
+  "products" : [ {
+    "id" : "b3df0541-6e73-4ca7-8307-57af2dc40735",
+    "name" : "Шоколад",
+    "price" : 51.01
+  } ],
+  "totalPrice" : 51.01
+}, {
+  "id" : "569b8bdb-a6e4-4036-a25a-c30fbc06129b",
+  "customerName" : "Василий",
+  "products" : [ {
+    "id" : "b3df0541-6e73-4ca7-8307-57af2dc40735",
+    "name" : "Шоколад",
+    "price" : 51.01
+  }, {
+    "id" : "777f1de4-c2a4-498b-b425-c39ac1914a36",
+    "name" : "Молоко",
+    "price" : 12.12
+  }, {
+    "id" : "b3df0541-6e73-4ca7-8307-57af2dc40735",
+    "name" : "Шоколад",
+    "price" : 51.01
+  } ],
+  "totalPrice" : 114.14
+}, {
+  "id" : "bb969968-de4d-4cbb-9a07-5e3cde25fc8f",
+  "customerName" : "Дмитрий",
+  "products" : [ {
+    "id" : "f7ddf14a-1ed0-42d0-b71a-5fb49173777a",
+    "name" : "Хлеб",
+    "price" : 8.10
+  } ],
+  "totalPrice" : 8.10
+} ]
